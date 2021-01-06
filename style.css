@@ -1,0 +1,18 @@
+body{
+    background: lightslategrey;
+}
+
+#title, .subtitle, .post-title{
+    color: lightcoral;
+}
+
+.post-title{
+    font-size: 0,5rem;
+    font-style: italic;
+}
+
+.post{
+    background: lightyellow;
+    padding: 10px;
+    border: 2px solid lightsteelblue;
+}
